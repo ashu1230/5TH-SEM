@@ -1,3 +1,5 @@
+---Q2. WAP in PL/SQL for addition of 1 to 100 numbers
+
 Declare
 a number;
 sum1 number :=0;
