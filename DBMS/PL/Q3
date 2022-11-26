@@ -1,3 +1,6 @@
+Q3. WAP in PL/SQL to check the given number is even or odd. 
+
+
 DECLARE
 	n NUMBER := 3;
 	r NUMBER;
