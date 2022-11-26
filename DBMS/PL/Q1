@@ -1,3 +1,5 @@
+--Q1. WAP in PL/SQL for addition of two numbers. 
+
 declare
 
 x number(5);			
