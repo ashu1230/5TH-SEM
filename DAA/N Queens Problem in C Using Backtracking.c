@@ -69,6 +69,8 @@ for(column=1;column<=n;++column)
    else //try queen with next position
     queen(row+1,n);
   }
+ 
 }
+ 
 }
 
