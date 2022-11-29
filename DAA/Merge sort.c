@@ -2,6 +2,7 @@
 #include <stdlib.h>
 void Merge(int arr[],int left, int mid, int right)
 {
+    
     int i, j, k;
     int size1 = mid - left + 1;
     int size2 = right - mid;
