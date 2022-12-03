@@ -22,7 +22,7 @@
 <ol>
 <ul><h2><li>Compiler Design</li></h2>
 <ul><h3>Compiler design principles provide an in-depth view of translation and optimization process. Compiler design covers basic translation mechanism and error detection & recovery. It includes lexical, syntax, and semantic analysis as front end, and code generation and optimization as back-end.</h3></ul>
-  <img src="Compiler-Design/download.png" class="center">
+  <img src="Compiler-Design/download.png" class="center" width="500" height="300">
 </ul></ol>
 
 
