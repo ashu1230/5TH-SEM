@@ -7,13 +7,13 @@
 <ol>
 <ul><h2><li>Database management system</li></h2>
 <ul><h3>Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data. A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database.</h3></ul>
-  <img src="DBMS/database-management.png" width="400" height="300">
+  <img src="DBMS/database-management.png" width="500" height="300">
 </ul>
 </ol>
 
 <ul><h2><li>Design And Analysis Of Algorithms</li></h2>
 <ul><h3>a sequence of steps to solve a problem. Design and Analysis of Algorithm is very important for designing algorithm to solve different types of problems in the branch of computer science and information technology.</h3></ul>
-  <img src="DAA/884_medium.png" class="center">
+  <img src="DAA/884_medium.png" class="center" width="500" height="300">
 </ul>
 </ol>
 
