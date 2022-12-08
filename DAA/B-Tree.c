@@ -14,6 +14,7 @@ struct BTreeNode {
 struct BTreeNode *root;
 
 // Create a node
+
 struct BTreeNode *createNode(int val, struct BTreeNode *child) {
   struct BTreeNode *newNode;
   newNode = (struct BTreeNode *)malloc(sizeof(struct BTreeNode));
