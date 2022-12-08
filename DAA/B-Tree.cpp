@@ -2,6 +2,7 @@
 using namespace std;
 
 // A BTree node
+
 class BTreeNode
 {
 	int *keys; // An array of keys
