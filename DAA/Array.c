@@ -21,6 +21,7 @@ int main()
   printf("\n Elemenst in this Array are :\n");
   for (i = 0; i < N; i++)
   {
+    
  	printf("%d\t", Array[i]);
   }     
  
