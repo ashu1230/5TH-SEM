@@ -10,6 +10,7 @@ int main()
  
   printf("\nPlease Enter Number of elements in an array:- ");
   scanf("%d", &N);
+  
  
   printf("\nPlease Enter %d elements of an Array \n", N);
   for (i = 0; i < N; i++)
