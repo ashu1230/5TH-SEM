@@ -1,4 +1,5 @@
 create table client_master (
+    
     client_no varchar(6),
     name varchar(20),
     city varchar(15),
