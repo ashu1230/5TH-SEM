@@ -57,6 +57,7 @@ insert into client_master values(
         400050,
         0
     );
+    
 insert into product_master
 values (
         'P00001',
