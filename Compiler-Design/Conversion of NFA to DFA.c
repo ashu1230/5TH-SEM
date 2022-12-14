@@ -5,6 +5,7 @@
 #include<math.h>
 
 int ninputs;
+
 int dfa[100][2][100] = {0};
 int state[10000] = {0};
 char ch[10], str[1000];
