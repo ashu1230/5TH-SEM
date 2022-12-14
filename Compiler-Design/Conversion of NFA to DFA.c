@@ -178,6 +178,7 @@ int main()
 			}
 			
 			if(flag)
+				
 				printf("\nString Accepted");
 			else
 				printf("\nString Rejected"); 		
