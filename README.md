@@ -13,11 +13,17 @@
 </ul>
 </ol>
 
-<ul><h2><li>Design And Analysis Of Algorithms</li></h2>
-<ul><h3>a sequence of steps to solve a problem. Design and Analysis of Algorithm is very important for designing algorithm to solve different types of problems in the branch of computer science and information technology.</h3></ul>
-  <img src="DAA/884_medium.png" class="center" width="500" height="300">
+<ol>
+<ul>
+  <h2><li>Design And Analysis Of Algorithms</li></h2>
+<ul>
+  <h3>a sequence of steps to solve a problem. Design and Analysis of Algorithm is very important for designing algorithm to solve different types of problems in the branch of computer science and information technology.</h3></ul>
+  <img src="DAA/884_medium.png" width="500" height="300">
 </ul>
 </ol>
+
+
+
 
 
 
