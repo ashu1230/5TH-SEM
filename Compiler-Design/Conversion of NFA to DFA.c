@@ -44,9 +44,7 @@ int main()
      scanf("%d",&rel);
      
      printf("\n\nDefine transition rule as \"initial state input symbol final state\"\n");
-
-     
-     
+	
      for(i=0; i<rel; i++)
      {
           scanf("%d%d%d",&p,&q,&r);
