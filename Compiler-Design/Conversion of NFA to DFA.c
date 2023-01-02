@@ -3,7 +3,6 @@
 #include<string.h>
 
 #include<math.h>
-
 int ninputs;
 
 int dfa[100][2][100] = {0};
