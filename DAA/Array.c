@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include<conio.h> 
 
-int main()
-  
+int main()  
 {
   
   int Array[50], i, N;
