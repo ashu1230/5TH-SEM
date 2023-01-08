@@ -143,6 +143,7 @@ values (
  1050,
  1000
  );
+ 
 select name
 from client_master;
 select name,
