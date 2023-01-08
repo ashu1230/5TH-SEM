@@ -4,12 +4,14 @@ create table challan_header(
     challan_date date not null,
     billed_yn char(1) default 'N' check(billed_yn in ('Y', 'N'))
 );
+
 create table challan_details(
     challan_no varchar(6),
     product_no varchar(6) references product_master(product_no),
     qty_disp decimal(4, 2) not null,
     primary key(challan_no, product_no)
 );
+
 insert into challan_header
 values ('CH9001', '019001', "1995-12-12", 'Y'),
     ('CH865', '046865', "1995-11-12", 'Y'),
