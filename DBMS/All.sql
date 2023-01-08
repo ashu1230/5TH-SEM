@@ -60,6 +60,7 @@ values(
  400050,
  0
  );
+ 
 insert into product_master
 values (
  'P00001',
