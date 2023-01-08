@@ -16,6 +16,7 @@ insert into challan_header
 values ('CH9001', '019001', "1995-12-12", 'Y'),
     ('CH865', '046865', "1995-11-12", 'Y'),
     ('CH3965', '010008', "1995-10-12", 'Y');
+    
 insert into challan_details
 values ('CH9001', 'P00001', 4),
     ('CH9001', 'P07965', 1),
