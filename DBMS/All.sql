@@ -230,6 +230,7 @@ create table sales_master(
  and tgt_to_get > 0
  and ytd_sales > 0
  )
+ 
 );
 create table sales_order(
  s_order_no varchar(6),
