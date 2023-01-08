@@ -17,6 +17,7 @@ create table product_master (
  sell_price decimal(10, 2),
  cost_price decimal(10, 2)
 );
+
 insert into client_master
 values(
  '0001',
