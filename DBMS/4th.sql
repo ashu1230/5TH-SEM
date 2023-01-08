@@ -26,6 +26,7 @@ values ('CH9001', 'P00001', 4),
     ('CH6865', 'P00001', 10),
     ('CH3965', 'P00001', 5),
     ('CH3965', 'P07975', 2);
+    
 alter table client_master
 add primary key(client_no);
 alter table client_master
