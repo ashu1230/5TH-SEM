@@ -6,6 +6,7 @@ create table client_master (
  pincode int(6),
  bal_due decimal(10, 2)
 );
+
 create table product_master (
  product_no varchar(6),
  description varchar(20),
