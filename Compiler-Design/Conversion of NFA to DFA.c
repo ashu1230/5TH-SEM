@@ -33,7 +33,7 @@ int main()
      {
           scanf("%d",&f[i]);
      }
-	
+
      int p,q,r,rel;
      
      printf("\nEnter the number of rules according to NFA::");
