@@ -142,7 +142,7 @@ int main()
      		}
      }
      
-    
+   
      
      j=3;
      while(j--)
