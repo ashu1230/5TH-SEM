@@ -4,6 +4,7 @@
 
 void keyword(char str[10])
 {
+    
     if(strcmp("for",str)==0||strcmp("while",str)==0||strcmp("do",str)==0||strcmp("int",str )==0||strcmp("float",str)==0||strcmp("char",str)==0||strcmp("double",str)==0||strcmp("static",str)==0||strcmp("switch",str)==0||strcmp("case",str)==0)
         printf("\n%s is a keyword",str);
     else
