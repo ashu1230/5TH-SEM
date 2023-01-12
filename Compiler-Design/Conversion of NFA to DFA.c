@@ -14,7 +14,7 @@ int main()
      int f[10];
      int i,j=3,s=0,final=0,flag=0,curr1,curr2,k,l;
      int c;
-     
+    
      printf("\nFollow the one based indexing\n");
      
      printf("\nEnter the number of states::");
