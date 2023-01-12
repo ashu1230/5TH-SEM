@@ -10,6 +10,7 @@ void keyword(char str[10])
     else
         printf("\n%s is an identifier",str);
 }
+
 void main()
 {
     FILE *f1,*f2,*f3;
