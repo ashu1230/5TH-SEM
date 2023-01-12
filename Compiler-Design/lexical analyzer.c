@@ -12,6 +12,7 @@ void keyword(char str[10])
 }
 
 void main()
+    
 {
     FILE *f1,*f2,*f3;
     char c,str[10],st1[10];
