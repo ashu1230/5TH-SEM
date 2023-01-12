@@ -49,7 +49,7 @@ int main()
 		  else 
 		  	dfa[p][1][r] = 1;          
      }
-     
+    
      printf("\nEnter initial state::");
      scanf("%d",&in);
 
