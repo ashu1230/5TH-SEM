@@ -16,6 +16,7 @@ where sell_price > 1500;
 select *
 from client_master
 where city like '_a%';
+
 select *
 from client_master
 where name like '_a%';
