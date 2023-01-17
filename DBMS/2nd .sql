@@ -4,6 +4,7 @@ where client_no = '0001';
 update client_master
 set city = 'Bombay'
 where client_no = '0005';
+
 update client_master
 set bal_due = 1000
 where client_no = '0001';
