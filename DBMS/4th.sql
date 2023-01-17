@@ -32,6 +32,7 @@ add primary key(client_no);
 
 alter table client_master
 add phone_no varchar(10);
+
 alter table product_master
 modify description varchar(20) not null,
     modify profit_percent decimal(5, 2) not null,
