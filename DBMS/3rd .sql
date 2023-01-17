@@ -51,6 +51,7 @@ create table sales_order_details(
     constraint fk_s_order_no foreign key(s_order_no) references sales_order(s_order_no),
     constraint fk_product_no foreign key(product_no) references product_master(product_no)
 );
+
 insert into sales_master
 values (
         's00001',
