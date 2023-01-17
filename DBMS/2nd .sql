@@ -20,6 +20,7 @@ where city like '_a%';
 select *
 from client_master
 where name like '_a%';
+
 select *
 from product_master
 order by description;
