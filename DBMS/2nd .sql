@@ -30,6 +30,7 @@ from product_master;
 
 select avg(sell_price)
 from product_master;
+
 select min(sell_price)
 from product_master;
 select max(sell_price)
