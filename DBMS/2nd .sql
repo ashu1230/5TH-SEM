@@ -44,3 +44,4 @@ from product_master;
 select count(*)
 from product_master
 where sell_price >= 1500;
+
