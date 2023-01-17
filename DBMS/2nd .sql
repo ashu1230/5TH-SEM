@@ -8,6 +8,7 @@ where client_no = '0005';
 update client_master
 set bal_due = 1000
 where client_no = '0001';
+
 select *
 from product_master
 where sell_price > 1500;
