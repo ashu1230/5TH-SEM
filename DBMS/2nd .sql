@@ -40,6 +40,7 @@ from product_master;
 select min(sell_price) as min_price,
     max(sell_price) as max_price
 from product_master;
+
 select count(*)
 from product_master
 where sell_price >= 1500;
