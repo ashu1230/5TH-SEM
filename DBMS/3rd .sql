@@ -23,6 +23,7 @@ create table sales_order(
     client_no varchar(25) not null,
     
     -- dely_add varchar(6) not null,
+    
     dely_type char(1) default 'f',
     billed_yn char(1) default 'n',
     salesman_no varchar(6) not null,
