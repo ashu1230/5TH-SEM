@@ -104,6 +104,7 @@ values (
         150,
         'Good'
     );
+    
 insert into sales_order
 values (
         '019001',
