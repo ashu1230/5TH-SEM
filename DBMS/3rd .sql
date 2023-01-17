@@ -182,6 +182,7 @@ values (
         '1996-05-26',
         'Ip'
     );
+    
 insert into sales_order_details
 values ('019001', 'P00001', 4, 4, 525),
     ('019001', 'P07965', 2, 1, 8400),
