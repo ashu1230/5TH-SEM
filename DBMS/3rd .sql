@@ -40,6 +40,7 @@ create table sales_order(
         and (dely_date >= s_order_date)
     )
 );
+
 create table sales_order_details(
     s_order_no varchar(6),
     product_no varchar(6),
