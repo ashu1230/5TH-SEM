@@ -12,3 +12,4 @@ a:=a+1;
 end loop;
 dbms_output.put_line('Sum between 1 to 100 is '||sum1);
 End;
+
