@@ -24,6 +24,7 @@ where name like '_a%';
 select *
 from product_master
 order by description;
+
 select count(*)
 from product_master;
 select avg(sell_price)
