@@ -40,6 +40,7 @@ modify description varchar(20) not null,
     modify cost_price decimal(10, 2) not null;
 alter table client_master
 modify client_no varchar(4);
+
 select product_no,
     description
 from product_master
