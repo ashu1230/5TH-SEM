@@ -16,6 +16,7 @@ create table sales_master(
         and ytd_sales > 0
     )
 );
+
 create table sales_order(
     s_order_no varchar(6),
     s_order_date date not null,
