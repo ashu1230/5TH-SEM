@@ -12,6 +12,7 @@ where client_no = '0001';
 select *
 from product_master
 where sell_price > 1500;
+
 select *
 from client_master
 where city like '_a%';
