@@ -14,5 +14,5 @@ Dbms_Output.Put_Line("Reverse of number is '|| rev);
 End;
  
  
- this is not completed programe
+ this is not completed programe and give error
  
