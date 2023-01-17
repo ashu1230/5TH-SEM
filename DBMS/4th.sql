@@ -29,6 +29,7 @@ values ('CH9001', 'P00001', 4),
     
 alter table client_master
 add primary key(client_no);
+
 alter table client_master
 add phone_no varchar(10);
 alter table product_master
