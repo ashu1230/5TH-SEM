@@ -21,6 +21,7 @@ create table sales_order(
     s_order_no varchar(6),
     s_order_date date not null,
     client_no varchar(25) not null,
+    
     -- dely_add varchar(6) not null,
     dely_type char(1) default 'f',
     billed_yn char(1) default 'n',
