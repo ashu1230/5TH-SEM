@@ -1,5 +1,6 @@
 delete from client_master
 where client_no = '0001';
+
 update client_master
 set city = 'Bombay'
 where client_no = '0005';
