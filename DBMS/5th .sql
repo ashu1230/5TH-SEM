@@ -1,3 +1,4 @@
+
 select b.book_id,
     b.title,
     b.publisher_name,
