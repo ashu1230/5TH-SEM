@@ -18,6 +18,7 @@ where b.book_id = ba.book_id
 select bl.card_no,
     bl.date_out,
     bl.due_date
+    
 from book_lending bl
 where bl.date_out between '01-JAN-17' and '30-JUN-17'
 group by bl.card_no
