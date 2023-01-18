@@ -22,6 +22,7 @@ select bl.card_no,
 from book_lending bl
 
 where bl.date_out between '01-JAN-17' and '30-JUN-17'
+
 group by bl.card_no
 having count(bl.card_no) > 3;
 delete from book
