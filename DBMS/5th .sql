@@ -42,6 +42,7 @@ select b.book_id,
     bc.no_of_copies,
     lb.branch_name,
     lb.address
+    
 from book b,
     book_authors ba,
     book_copies bc,
