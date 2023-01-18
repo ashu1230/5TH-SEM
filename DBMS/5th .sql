@@ -28,6 +28,7 @@ having count(bl.card_no) > 3;
 
 delete from book
 where book_id = 'B0001';
+
 select *
 from book
 where pub_year between 2000 and 2005;
