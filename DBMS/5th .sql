@@ -51,3 +51,4 @@ from book b,
 where b.book_id = ba.book_id
     and b.book_id = bc.book_id
     and bc.branch_id = lb.branch_id;
+    
