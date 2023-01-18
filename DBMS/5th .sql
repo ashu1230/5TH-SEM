@@ -14,6 +14,7 @@ from book b,
 where b.book_id = ba.book_id
     and b.book_id = bc.book_id
     and bc.branch_id = lb.branch_id;
+    
 select bl.card_no,
     bl.date_out,
     bl.due_date
