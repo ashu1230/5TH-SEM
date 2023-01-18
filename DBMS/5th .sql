@@ -32,6 +32,7 @@ where book_id = 'B0001';
 select *
 from book
 where pub_year between 2000 and 2005;
+
 create view book_view as
 select b.book_id,
     b.title,
