@@ -394,6 +394,7 @@ void BTreeNode::borrowFromNext(int idx)
 	return;
 }
 
+
 // A function to merge C[idx] with C[idx+1]
 // C[idx+1] is freed after merging
 void BTreeNode::merge(int idx)
