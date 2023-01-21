@@ -3,7 +3,7 @@
 #include<conio.h>
 void main()
 {
-    
+   
     int array[20],i,j,n,swap;
   printf("Enter number of elements\n");
   scanf("%d", &n);
