@@ -19,8 +19,8 @@ public:
 	                  // A function to traverse all nodes in a subtree rooted with this node
 	void traverse();
 
-	// A function to search a key in subtree rooted with this node.
-	BTreeNode *search(int k); // returns NULL if k is not present.
+	               // A function to search a key in subtree rooted with this node.
+	BTreeNode *search(int k);          // returns NULL if k is not present.
 
 	// A function that returns the index of the first key that is greater
 	// or equal to k
