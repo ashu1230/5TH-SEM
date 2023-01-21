@@ -160,6 +160,7 @@ void BTreeNode::remove(int k)
 {
 	int idx = findKey(k);
 
+	
 	// The key to be removed is present in this node
 	if (idx < n && keys[idx] == k)
 	{
