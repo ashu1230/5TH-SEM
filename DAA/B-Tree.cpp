@@ -132,6 +132,7 @@ public:
 BTreeNode::BTreeNode(int t1, bool leaf1)
 {
 	
+	
 	// Copy the given minimum degree and leaf property
 	t = t1;
 	leaf = leaf1;
