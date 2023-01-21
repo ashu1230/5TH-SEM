@@ -16,7 +16,7 @@ public:
 
 	BTreeNode(int _t, bool _leaf);         // Constructor
 
-	// A function to traverse all nodes in a subtree rooted with this node
+	                  // A function to traverse all nodes in a subtree rooted with this node
 	void traverse();
 
 	// A function to search a key in subtree rooted with this node.
