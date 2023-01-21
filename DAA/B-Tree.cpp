@@ -238,6 +238,7 @@ void BTreeNode::removeFromNonLeaf(int idx)
 		keys[idx] = pred;
 		C[idx]->remove(pred);
 	}
+	
 
 	// If the child C[idx] has less that t keys, examine C[idx+1].
 	// If C[idx+1] has atleast t keys, find the successor 'succ' of k in
