@@ -98,6 +98,7 @@ class BTree
 	
 public:
 
+	
 	// Constructor (Initializes tree as empty)
 	BTree(int _t)
 	{
