@@ -432,6 +432,7 @@ void BTreeNode::merge(int idx)
 	// Freeing the memory occupied by sibling
 	delete(sibling);
 	return;
+	
 }
 
 // The main function that inserts a new key in this B-Tree
