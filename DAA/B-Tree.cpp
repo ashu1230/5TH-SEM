@@ -10,7 +10,7 @@ class BTreeNode
 	int t;	 		// Minimum degree (defines the range for number of keys)
 	BTreeNode **C;	       // An array of child pointers
 	int n;	              // Current number of keys
-	bool leaf; // Is true when node is leaf. Otherwise false
+	bool leaf;           // Is true when node is leaf. Otherwise false
 
 public:
 
