@@ -14,7 +14,7 @@ class BTreeNode
 
 public:
 
-	BTreeNode(int _t, bool _leaf); // Constructor
+	BTreeNode(int _t, bool _leaf);         // Constructor
 
 	// A function to traverse all nodes in a subtree rooted with this node
 	void traverse();
