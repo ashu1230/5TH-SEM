@@ -84,6 +84,7 @@ public:
 	// the node
 	void merge(int idx);
 
+	
 	// Make BTree friend of this so that we can access private members of
 	// this class in BTree functions
 	friend class BTree;
