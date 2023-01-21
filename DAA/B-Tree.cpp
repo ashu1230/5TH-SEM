@@ -378,6 +378,7 @@ void BTreeNode::borrowFromNext(int idx)
 	for (int i=1; i<sibling->n; ++i)
 		sibling->keys[i-1] = sibling->keys[i];
 
+	
 	// Moving the child pointers one step behind
 	if (!sibling->leaf)
 	{
