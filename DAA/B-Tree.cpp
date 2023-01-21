@@ -95,6 +95,7 @@ class BTree
 {
 	BTreeNode *root; // Pointer to root node
 	int t; // Minimum degree
+	
 public:
 
 	// Constructor (Initializes tree as empty)
