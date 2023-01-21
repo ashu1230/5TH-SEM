@@ -220,6 +220,7 @@ void BTreeNode::removeFromLeaf (int idx)
 	return;
 }
 
+
 // A function to remove the idx-th key from this node - which is a non-leaf node
 void BTreeNode::removeFromNonLeaf(int idx)
 {
