@@ -34,7 +34,7 @@ for(i=1;i<=n;++i)
    if(board[i]==j)
     printf("\tQ");                    //queen at i,j position
    else
-    printf("\t-"); //empty slot
+    printf("\t-");                    //empty slot
   }
 }
 }
