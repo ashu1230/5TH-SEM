@@ -40,8 +40,8 @@ for(i=1;i<=n;++i)
 }
  
 /*funtion to check conflicts
-
 If no conflict for desired postion returns 1 otherwise returns 0*/
+
 int place(int row,int column)
 {
 int i;
