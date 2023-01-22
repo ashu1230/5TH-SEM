@@ -78,6 +78,5 @@ for(column=1;column<=n;++column)
   }
  
 }
- 
 }
 
