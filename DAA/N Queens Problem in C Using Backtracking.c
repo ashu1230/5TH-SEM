@@ -32,7 +32,7 @@ for(i=1;i<=n;++i)
   for(j=1;j<=n;++j)                    //for nxn board
   {
    if(board[i]==j)
-    printf("\tQ"); //queen at i,j position
+    printf("\tQ");                    //queen at i,j position
    else
     printf("\t-"); //empty slot
   }
