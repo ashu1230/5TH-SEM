@@ -4,6 +4,7 @@
 int board[20],count;
  
 int main()
+ 
 {
 int n,i,j,;
 void queen(int row,int n);
