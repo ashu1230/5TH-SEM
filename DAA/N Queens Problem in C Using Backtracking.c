@@ -60,6 +60,7 @@ return 1; //no conflicts
 }
  
 //function to check for proper positioning of queen
+
 void queen(int row,int n)
 {
 int column;
