@@ -17,6 +17,7 @@ return 0;
 }
  
 //function for printing the solution
+
 void print(int n)
 {
 int i,j;
