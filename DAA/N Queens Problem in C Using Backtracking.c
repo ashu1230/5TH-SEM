@@ -29,7 +29,7 @@ for(i=1;i<=n;++i)
 for(i=1;i<=n;++i)
 {
   printf("\n\n%d",i);
-  for(j=1;j<=n;++j) //for nxn board
+  for(j=1;j<=n;++j)                    //for nxn board
   {
    if(board[i]==j)
     printf("\tQ"); //queen at i,j position
