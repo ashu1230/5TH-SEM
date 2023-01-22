@@ -47,6 +47,7 @@ int place(int row,int column)
 int i;
 for(i=1;i<=row-1;++i)
 {
+ 
   //checking column and digonal conflicts
  
   if(board[i]==column)
