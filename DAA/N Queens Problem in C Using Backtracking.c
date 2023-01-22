@@ -49,6 +49,7 @@ for(i=1;i<=row-1;++i)
 {
   //checking column and digonal conflicts
   if(board[i]==column)
+   
    return 0;
   else
    if(abs(board[i]-column)==abs(i-row))
