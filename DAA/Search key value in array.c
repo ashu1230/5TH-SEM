@@ -31,6 +31,6 @@
                 low = mid + 1;
         }
         printf("NO SEARCH\n");
- 
+
 
     }
