@@ -56,7 +56,7 @@ for(i=1;i<=row-1;++i)
     return 0;
 }
  
-return 1; //no conflicts
+return 1;                                       //no conflicts
 }
  
 //function to check for proper positioning of queen
