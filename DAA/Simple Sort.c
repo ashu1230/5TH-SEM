@@ -27,3 +27,4 @@ void main ()
     printf ("%d\n", number[i]);
   getch ();
 }
+ 
