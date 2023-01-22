@@ -63,6 +63,7 @@ return 1;                                       //no conflicts
 
 void queen(int row,int n)
 {
+ 
 int column;
 for(column=1;column<=n;++column)
 {
