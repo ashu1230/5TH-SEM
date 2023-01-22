@@ -72,7 +72,7 @@ for(column=1;column<=n;++column)
   {
    board[row]=column;                         //no conflicts so place queen
    if(row==n)                                //dead end
-    print(n); //printing the board configuration
+    print(n);                               //printing the board configuration
    else //try queen with next position
     queen(row+1,n);
   }
