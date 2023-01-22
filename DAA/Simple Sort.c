@@ -3,6 +3,7 @@
 #include<conio.h>
 void main ()
 {
+	
   int i, j, a, n, number[30];
   printf ("Enter the value of N \n");
   scanf ("%d", &n);
