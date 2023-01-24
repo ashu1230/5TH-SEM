@@ -454,6 +454,7 @@ where product_no in (
  )
  )
  );
+ 
 -- 2. Find out the product and their quantities that will have do delivered.
 select product_no,
  qty_disp
