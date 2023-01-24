@@ -404,6 +404,7 @@ create table challan_header(
  challan_date date not null,
  billed_yn char(1) default 'N' check(billed_yn in ('Y', 'N'))
 );
+
 create table challan_details(
  challan_no varchar(6),
  product_no varchar(6) references product_master(product_no),
