@@ -439,6 +439,7 @@ select product_no,
  description
 from product_master
 where profit_percent between 20 and 30;
+
 -- 1. Find out the product which has been sold to 'Ivan Sayross'.
 select product_no,
  description
