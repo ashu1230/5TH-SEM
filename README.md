@@ -7,7 +7,6 @@
   <img src="DBMS/database-management.png" width="500" height="300">
 </ul>
 </ol>
-
 <ol>
 <ul>
   <h2><li>Design And Analysis Of Algorithms:-</li></h2>
