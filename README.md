@@ -1,5 +1,4 @@
 # 5TH-SEM:- 
-
 <ol>
 <ul>
   <h2><li>Database management system:-</li></h2>
